@@ -7,6 +7,6 @@
 ## Phone number:	 +998(90)602-39-20
 ## Languages:	|Russian |Uzbek |Tajik |English |
 ## Hobby:	Experimenting, Training, Healthy
-## I use Pomodoro: Repead(60min Work /20min Others)Maximum 6 times a day	
+## I use Pomodoro: Repead(60min Work /20min Others)Maximum 10 times a day	
 ## https://t.me/DjamalovAziz	
 ## https://github.com/DjamalovAziz
