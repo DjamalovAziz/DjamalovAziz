@@ -9,3 +9,4 @@
 ## I use Pomodoro: Repead(60min Work /20min Others)Maximum 10 times a day	
 ## https://t.me/DjamalovAziz	
 ## https://github.com/DjamalovAziz
+## https://www.canva.com/design/DAGgGboMPnM/wUIi7WqN7wFTa88IOZv3zA/view
