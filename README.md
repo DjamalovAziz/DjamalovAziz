@@ -1,12 +1,2 @@
 # About myself:
-## FULL NAME:	Djamalov Aziz Mansurovich
-## Birthday:	09/11/2002
-## Specialazations & Main dev. Language:	(Back-End, DevOps) & Python, Rust-lang
-## Account address:	djamalov.aziz.mansurovich@gmail.com
-## Phone number:	 +998(90)602-39-20
-## Languages:	|Russian |Uzbek |Tajik |English |
-## Hobby:	Experimenting, Training, Healthy
-## I use Pomodoro: Repead(60min Work /20min Others)Maximum 10 times a day	
-## https://t.me/DjamalovAziz	
-## https://github.com/DjamalovAziz
-## https://www.canva.com/design/DAGgGboMPnM/wUIi7WqN7wFTa88IOZv3zA/view
+## [CV](https://www.canva.com/design/DAGgGboMPnM/wUIi7WqN7wFTa88IOZv3zA/view)
